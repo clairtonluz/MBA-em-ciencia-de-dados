@@ -15,4 +15,5 @@ pip install --upgrade matplotlib
 pip install --upgrade numpy
 pip install --upgrade scipy
 pip install --upgrade scikit-learn
+pip install --upgrade gdown
 ```
