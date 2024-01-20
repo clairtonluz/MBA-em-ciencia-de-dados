@@ -17,3 +17,9 @@ pip install --upgrade scipy
 pip install --upgrade scikit-learn
 pip install --upgrade gdown
 ```
+
+
+## Links auxiliares
+
+<!-- examplos de gráficos -->
+https://python-graph-gallery.com/
