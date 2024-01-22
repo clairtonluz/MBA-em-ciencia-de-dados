@@ -1,0 +1,10 @@
+ipykernel
+pandas
+seaborn
+matplotlib
+numpy
+scipy
+scikit-learn
+gdown
+plotly
+panel
