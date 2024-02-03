@@ -9,3 +9,4 @@ gdown
 plotly
 panel
 networkx
+python-louvain
