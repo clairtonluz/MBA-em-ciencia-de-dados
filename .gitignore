@@ -166,3 +166,4 @@ cython_debug/
 output.html
 Mineração de Grafos/datasets/genius
 !Mineração de Grafos/datasets/genius.zip
+__MACOSX/
