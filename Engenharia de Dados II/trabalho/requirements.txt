@@ -1,2 +1,6 @@
 pyspark
 gdown
+pandas
+pyarrow
+grpcio
+google
