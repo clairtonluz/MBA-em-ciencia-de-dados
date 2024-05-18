@@ -1,0 +1,21 @@
+BUSCA DE PRODUTOS
+https://api.mercadolibre.com/sites/MLB/search?q={QUERY}
+
+Detalhes do produto
+https://api.mercadolibre.com/items/
+
+
+CATEGORIA
+https://api.mercadolibre.com/categories/{CATEGORY_ID}
+
+LOCALIDADES
+https://api.mercadolibre.com/countries
+https://api.mercadolibre.com/states/{STATE_ID}
+https://api.mercadolibre.com/cities/{CITY_ID}
+
+MOEDAS
+https://api.mercadolibre.com/currencies
+
+
+
+
