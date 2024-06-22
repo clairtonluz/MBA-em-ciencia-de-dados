@@ -1,3 +1,7 @@
 pandas
 statsmodels
 matplotlib
+xgboost
+seaborn
+scipy
+scikit-learn
