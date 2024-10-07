@@ -1,0 +1,5 @@
+.DS_Store
+queries/
+datasets/
+.venv/
+.vscode/
